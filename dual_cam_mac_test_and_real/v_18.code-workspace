@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "v_18",
+			"path": ".."
+		},
+		{
+			"name": "thermo_rgb_mongo",
+			"path": "../../../Documents/thermo_rgb_mongo"
+		}
+	],
+	"settings": {}
+}
